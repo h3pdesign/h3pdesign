@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @h3pdesign
-- 👀 I’m interested in Photography und Python development, data science, 
+- 👀 I’m interested in Photography und Python development, data science, archaeology
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on h3p.me
-- 📫 How to reach me via twitter @h3palpha
+- 📫 How to reach me via twitter @h3palpha and on my page at h3p.me
 
 <!---
 h3pdesign/h3pdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
