@@ -15,7 +15,7 @@ Most of my projects are developed in the open and shared publicly. I value:
 - readable code and documentation
 - constructive collaboration and long-term sustainability
 
-I’m open to collaboration on projects connected to **https://h3p.me**.
+I’m open to collaboration on projects connected to **https://h3p.me/apps**.
 
 ### Support
 If you find my open-source work useful and want to support continued development and maintenance, GitHub Sponsors and other options are available via my profile.
