@@ -9,7 +9,7 @@ I care about performance, readability, maintainable architecture, and software t
 ---
 
 <p align="center">
-  <img src="docs/images/NeonVisionEditorIcon.png?v=20260310" alt="Neon Vision Editor Logo" width="228"/>
+  <img src="AppIcon-iOS-Default-1024x1024@1x.png?v=20260310" alt="Neon Vision Editor Logo" width="228"/>
 </p>
 
 <h1 align="center">Neon Vision Editor</h1>
