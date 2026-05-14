@@ -41,17 +41,9 @@ I care about performance, readability, maintainable architecture, and software t
 ---
 
 <p align="center">
-  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/releases">
-    <img src="https://img.shields.io/github/v/release/h3pdesign/Neon-Vision-Editor?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/h3pdesign/Neon-Vision-Editor?style=for-the-badge" />
-  </a>
-
-  <a href="https://apps.apple.com/de/app/neon-vision-editor/id6758950965">
-    <img src="https://img.shields.io/badge/App%20Store-macOS%20%7C%20iPadOS%20%7C%20iOS-black?style=for-the-badge&logo=apple" />
-  </a>
+  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/releases"><img src="https://img.shields.io/github/v/release/h3pdesign/Neon-Vision-Editor?style=for-the-badge" /></a>
+  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/h3pdesign/Neon-Vision-Editor?style=for-the-badge" /></a>
+  <a href="https://apps.apple.com/de/app/neon-vision-editor/id6758950965"><img src="https://img.shields.io/badge/App%20Store-macOS%20%7C%20iPadOS%20%7C%20iOS-black?style=for-the-badge&logo=apple" /></a>
 </p>
 
 # Neon Vision Editor
