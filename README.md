@@ -1,30 +1,127 @@
-👋 Hi, I’m **h3p**
+# Hi, I’m h3p
 
-I’m a technologist and photographer based in Germany, working primarily in **Python, data science, and native software development**. I’m interested in building focused, maintainable tools and sharing work openly.
+I build native developer tools and focused software for the Apple ecosystem using Swift, Python, and modern Apple frameworks.
 
-### What I work on
-- 📊 **Data science & Python** (analysis, tooling, experimentation)
-- ☁️ **Cloud platforms**, currently focusing on **Microsoft Azure**
-- 🧩 **Open-source software**, with an emphasis on clarity, performance, and long-term maintainability
-- 🖥️ Native macOS development and lightweight developer tools
-- 📷 Photography and visual projects, often intersecting with technical workflows
+My work focuses on performance, readability, and software that feels native instead of bloated.
 
-### Open source & collaboration
-Most of my projects are developed in the open and shared publicly. I value:
-- small, well-scoped tools
-- readable code and documentation
-- constructive collaboration and long-term sustainability
+Native. Fast. Readable.
 
-I’m open to collaboration on projects connected to **https://apps-h3p.com**.
+No Electron.  
+No telemetry.  
+No subscription maze.
 
-### Support
-If you find my open-source work useful and want to support continued development and maintenance, GitHub Sponsors and other options are available via my profile.
+---
 
-### Contact
-- X / Twitter: **@h3palpha**
-- Website: **https://h3p.me**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h3pdesign/Neon-Vision-Editor/main/.github/assets/neon-banner.png" width="90%" />
+</p>
 
-<!---
-h3pdesign/h3pdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Neon Vision Editor
+
+A lightweight, fully native code editor for macOS, iPadOS, and iOS.
+
+Built with SwiftUI, AppKit, and UIKit.
+
+## Focus
+
+- Fast startup and responsive editing
+- Native Apple platform integration
+- Large-file focused workflows
+- Minimal and distraction-free UI
+- Optional AI assistance that helps only when requested
+
+## Features
+
+- Syntax highlighting
+- Vim support
+- Regex Find & Replace
+- Inline code completion
+- Markdown preview
+- Quick Open (⌘P)
+- Recursive project sidebar
+- Session restore
+- Built-in themes:
+  - Dracula
+  - One Dark Pro
+  - Nord
+  - Tokyo Night
+  - Gruvbox
+  - Neon Glow
+
+## Links
+
+- GitHub Repository  
+  https://github.com/h3pdesign/Neon-Vision-Editor
+
+- App Store  
+  https://apps.apple.com/de/app/neon-vision-editor/id6758950965
+
+- TestFlight  
+  https://testflight.apple.com/join/YWB2fGAP
+
+---
+
+# Current Focus
+
+- Editor architecture
+- Large-file performance
+- Cross-device workflows
+- Native Apple development
+- SwiftUI/AppKit/UIKit
+- Python tooling and automation
+- CI/CD pipelines and release automation
+- Data visualization and monitoring dashboards
+
+---
+
+# Selected Projects
+
+## Neon Vision Editor
+Native code editor for macOS, iPadOS, and iOS.
+
+## appsh3p
+Public dashboards, monitoring systems, and visualization projects.
+
+## homebrew-tap
+Automated Homebrew distribution for macOS releases.
+
+---
+
+# Development Philosophy
+
+I prefer focused software over feature overload.
+
+Software should feel sharp, calm, and reliable.
+
+I care about:
+- native performance
+- maintainable architecture
+- readable interfaces
+- low-friction workflows
+- long-term usability
+
+---
+
+# Technologies
+
+Swift • SwiftUI • AppKit • UIKit • Python • GitHub Actions • Azure • SQLite
+
+---
+
+# Activity
+
+- Continuous public releases
+- Open-source development
+- Automated release pipelines
+- Native Apple platform tooling
+- UI/UX focused engineering
+
+---
+
+# Links
+
+- Portfolio  
+  https://h3p.me
+
+- GitHub  
+  https://github.com/h3pdesign
