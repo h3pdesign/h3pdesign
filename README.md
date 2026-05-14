@@ -2,19 +2,23 @@
 
 I build native developer tools and focused software for the Apple ecosystem using Swift, Python, and modern Apple frameworks.
 
-My work focuses on performance, readability, and software that feels native instead of bloated.
+Creator of Neon Vision Editor — a lightweight, fully native code editor for macOS, iPadOS, and iOS.
 
-Native. Fast. Readable.
-
-No Electron.  
-No telemetry.  
-No subscription maze.
+I care about performance, readability, maintainable architecture, and software that feels native instead of bloated.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h3pdesign/Neon-Vision-Editor/main/.github/assets/neon-banner.png" width="90%" />
+  <img src="docs/images/NeonVisionEditorIcon.png?v=20260310" alt="Neon Vision Editor Logo" width="228"/>
 </p>
+
+<h1 align="center">Neon Vision Editor</h1>
+
+<p align="center">
+  Native. Fast. Readable.
+</p>
+
+---
 
 # Neon Vision Editor
 
@@ -22,15 +26,21 @@ A lightweight, fully native code editor for macOS, iPadOS, and iOS.
 
 Built with SwiftUI, AppKit, and UIKit.
 
-## Focus
+## Philosophy
 
+- Native-first architecture
 - Fast startup and responsive editing
-- Native Apple platform integration
-- Large-file focused workflows
-- Minimal and distraction-free UI
-- Optional AI assistance that helps only when requested
+- Minimal and distraction-free interface
+- Cross-platform consistency across Apple devices
+- Optional AI assistance that responds only when requested
 
-## Features
+No Electron.  
+No telemetry.  
+No subscription maze.
+
+---
+
+# Features
 
 - Syntax highlighting
 - Vim support
@@ -40,6 +50,7 @@ Built with SwiftUI, AppKit, and UIKit.
 - Quick Open (⌘P)
 - Recursive project sidebar
 - Session restore
+- Save As support
 - Built-in themes:
   - Dracula
   - One Dark Pro
@@ -48,16 +59,27 @@ Built with SwiftUI, AppKit, and UIKit.
   - Gruvbox
   - Neon Glow
 
-## Links
+---
+
+# Platforms
+
+- macOS
+- iPadOS
+- iOS
+
+Designed to provide a consistent editing experience across Apple platforms with native UI and behavior.
+
+---
+
+# Links
+
+## Neon Vision Editor
 
 - GitHub Repository  
   https://github.com/h3pdesign/Neon-Vision-Editor
 
 - App Store  
   https://apps.apple.com/de/app/neon-vision-editor/id6758950965
-
-- TestFlight  
-  https://testflight.apple.com/join/YWB2fGAP
 
 ---
 
@@ -66,11 +88,12 @@ Built with SwiftUI, AppKit, and UIKit.
 - Editor architecture
 - Large-file performance
 - Cross-device workflows
-- Native Apple development
+- Native Apple platform development
 - SwiftUI/AppKit/UIKit
 - Python tooling and automation
-- CI/CD pipelines and release automation
-- Data visualization and monitoring dashboards
+- CI/CD pipelines
+- Automated release workflows
+- Data visualization and monitoring systems
 
 ---
 
@@ -83,7 +106,7 @@ Native code editor for macOS, iPadOS, and iOS.
 Public dashboards, monitoring systems, and visualization projects.
 
 ## homebrew-tap
-Automated Homebrew distribution for macOS releases.
+Automated Homebrew distribution for notarized macOS releases.
 
 ---
 
@@ -93,7 +116,7 @@ I prefer focused software over feature overload.
 
 Software should feel sharp, calm, and reliable.
 
-I care about:
+I value:
 - native performance
 - maintainable architecture
 - readable interfaces
@@ -104,7 +127,7 @@ I care about:
 
 # Technologies
 
-Swift • SwiftUI • AppKit • UIKit • Python • GitHub Actions • Azure • SQLite
+Swift • SwiftUI • AppKit • UIKit • Python • SQLite • GitHub Actions • Azure
 
 ---
 
@@ -118,6 +141,19 @@ Swift • SwiftUI • AppKit • UIKit • Python • GitHub Actions • Azure �
 
 ---
 
+# Pinned Repositories
+
+## Neon Vision Editor
+Native editor for Apple platforms.
+
+## appsh3p
+Visualization dashboards and monitoring systems.
+
+## homebrew-tap
+Homebrew cask automation and distribution.
+
+---
+
 # Links
 
 - Portfolio  
@@ -125,3 +161,9 @@ Swift • SwiftUI • AppKit • UIKit • Python • GitHub Actions • Azure �
 
 - GitHub  
   https://github.com/h3pdesign
+
+---
+
+<p align="center">
+  Built with Swift and native Apple frameworks.
+</p>
