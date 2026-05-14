@@ -1,3 +1,20 @@
+<h1 align="center">h3p</h1>
+
+<p align="center">
+  Native Apple Platform Developer • Swift • Python • Editor Architecture
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-Native-black?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/iPadOS-Native-black?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/iOS-Native-black?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/SwiftUI-AppKit-blue?style=for-the-badge&logo=swift" />
+</p>
+
+<p align="center">
+  Creator of Neon Vision Editor
+</p>
+
 # Hi, I’m h3p
 
 I build native developer tools and focused software for the Apple ecosystem using Swift, Python, and modern Apple frameworks.
@@ -19,6 +36,20 @@ I care about performance, readability, maintainable architecture, and software t
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/releases">
+    <img src="https://img.shields.io/github/v/release/h3pdesign/Neon-Vision-Editor?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/h3pdesign/Neon-Vision-Editor/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/h3pdesign/Neon-Vision-Editor?style=for-the-badge" />
+  </a>
+
+  <a href="https://apps.apple.com/de/app/neon-vision-editor/id6758950965">
+    <img src="https://img.shields.io/badge/App%20Store-macOS%20%7C%20iPadOS%20%7C%20iOS-black?style=for-the-badge&logo=apple" />
+  </a>
+</p>
 
 # Neon Vision Editor
 
@@ -74,7 +105,7 @@ Designed to provide a consistent editing experience across Apple platforms with 
 ## Screenshots
 
 <p align="center">
-  <img src="docs/images/editor-dark.png" width="90%" />
+  <img src="NVE 3.png" width="90%" />
 </p>
 
 # Links
