@@ -71,6 +71,12 @@ Designed to provide a consistent editing experience across Apple platforms with 
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/images/editor-dark.png" width="90%" />
+</p>
+
 # Links
 
 ## Neon Vision Editor
