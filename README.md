@@ -26,8 +26,11 @@ I care about performance, readability, maintainable architecture, and software t
 ---
 
 <p align="center">
-  <img src="AppIcon-iOS-Default-1024x1024@1x.png?v=20260310" alt="Neon Vision Editor Logo" width="228"/>
+   <a href="https://github.com/h3pdesign/Neon-Vision-Editor">
+    <img src="AppIcon-iOS-Default-1024x1024@1x.png?v=20260310" alt="Neon Vision Editor Logo" width="228"/>
+  </a>
 </p>
+
 
 <h1 align="center">Neon Vision Editor</h1>
 
@@ -112,11 +115,16 @@ Designed to provide a consistent editing experience across Apple platforms with 
 
 ## Neon Vision Editor
 
-- GitHub Repository  
-  https://github.com/h3pdesign/Neon-Vision-Editor
 
-- App Store  
-  https://apps.apple.com/de/app/neon-vision-editor/id6758950965
+- <p align="left">
+  <a href="https://github.com/h3pdesign/Neon-Vision-Editor">
+  GitHub Repository
+  </a>
+
+- <p align="left">
+  <a href="https://apps.apple.com/de/app/neon-vision-editor/id6758950965">
+  AppStore 
+  </a>
 
 ---
 
