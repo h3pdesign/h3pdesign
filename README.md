@@ -23,7 +23,7 @@ Creator of Neon Vision Editor — a lightweight, fully native code editor for ma
 
 I care about performance, readability, maintainable architecture, and software that feels native instead of bloated.
 
----
+
 
 <p align="center">
    <a href="https://github.com/h3pdesign/Neon-Vision-Editor">
@@ -38,7 +38,7 @@ I care about performance, readability, maintainable architecture, and software t
   Native. Fast. Readable.
 </p>
 
----
+
 
 <p align="center">
   <a href="https://github.com/h3pdesign/Neon-Vision-Editor/releases"><img src="https://img.shields.io/github/v/release/h3pdesign/Neon-Vision-Editor?style=for-the-badge" /></a>
@@ -64,7 +64,7 @@ No Electron.
 No telemetry.  
 No subscription maze.
 
----
+
 
 # Features
 
@@ -85,7 +85,7 @@ No subscription maze.
   - Gruvbox
   - Neon Glow
 
----
+
 
 # Platforms
 
@@ -95,7 +95,7 @@ No subscription maze.
 
 Designed to provide a consistent editing experience across Apple platforms with native UI and behavior.
 
----
+
 
 ## Screenshots
 
@@ -118,7 +118,7 @@ Designed to provide a consistent editing experience across Apple platforms with 
   AppStore 
   </a>
 
----
+
 
 # Current Focus
 
@@ -132,7 +132,7 @@ Designed to provide a consistent editing experience across Apple platforms with 
 - Automated release workflows
 - Data visualization and monitoring systems
 
----
+
 
 # Selected Projects
 
@@ -145,7 +145,7 @@ Public dashboards, monitoring systems, and visualization projects.
 ## homebrew-tap
 Automated Homebrew distribution for notarized macOS releases.
 
----
+
 
 # Development Philosophy
 
@@ -160,13 +160,13 @@ I value:
 - low-friction workflows
 - long-term usability
 
----
+
 
 # Technologies
 
 Swift • SwiftUI • AppKit • UIKit • Python • SQLite • GitHub Actions • Azure
 
----
+
 
 # Activity
 
@@ -176,7 +176,7 @@ Swift • SwiftUI • AppKit • UIKit • Python • SQLite • GitHub Actions 
 - Native Apple platform tooling
 - UI/UX focused engineering
 
----
+
 
 # Pinned Repositories
 
@@ -189,7 +189,6 @@ Visualization dashboards and monitoring systems.
 ## homebrew-tap
 Homebrew cask automation and distribution.
 
----
 
 # Links
 
@@ -199,7 +198,7 @@ Homebrew cask automation and distribution.
 - GitHub  
   https://github.com/h3pdesign
 
----
+
 
 <p align="center">
   Built with Swift and native Apple frameworks.
