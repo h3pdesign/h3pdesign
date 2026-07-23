@@ -68,22 +68,35 @@ No subscription maze.
 
 # Features
 
-- Syntax highlighting
-- Vim support
-- Regex Find & Replace
-- Inline code completion
-- Markdown preview
-- Quick Open (⌘P)
-- Recursive project sidebar
-- Session restore
-- Save As support
-- Built-in themes:
-  - Dracula
-  - One Dark Pro
-  - Nord
-  - Tokyo Night
-  - Gruvbox
-  - Neon Glow
+### Focused editing
+
+- Native tabbed editor with syntax highlighting for code, Markdown, HTML, JSON, YAML, XML, TeX, logs, and more
+- Regex Find & Replace, Replace All, Quick Open (`⌘P`), starter templates, and lightweight Vim navigation
+- Inline completion with Tab-to-accept, plus optional AI suggestions for code, Markdown, and prose
+- Line numbers, line wrap, current-line and matching-bracket highlights, invisible-character markers, and pinch-to-zoom font sizing
+- Code minimap with click-to-jump navigation and a draggable viewport marker
+- Built-in themes and saved custom themes, including Dracula, One Dark Pro, Nord, Tokyo Night, Gruvbox, and Neon Glow
+
+### Projects and files
+
+- Recursive project sidebar with Files, Search, Git, and a macOS terminal
+- Per-document cursor, selection, viewport, minimap, and tab-state restoration
+- Multi-window support on macOS: independent tabs and editor state, with each window returning at its own last-used size and position
+- Deliberate text-encoding support for UTF-8/BOM, UTF-16, common Windows, ISO, and Mac encodings
+- Large-file safeguards: responsive modes for large files and a read-only partial preview for files at or above 100 MB
+
+### Markdown, previews, and sharing
+
+- Optional Markdown, HTML, and SVG previews with adaptive layouts across Mac, iPad, and iPhone
+- Contextual Markdown formatting for headings, emphasis, links, lists, quotes, code, images, and tables
+- Plain-text-to-Markdown proposals through Apple Intelligence or an explicitly configured AI provider, with cancellation and safety limits
+- Code Snapshots: compose and export polished PNG images with selectable appearance, background, frame, layout, dimensions, padding, and line numbers
+
+### Reliable workflows and privacy
+
+- Event-driven external file refresh for iCloud Drive, network folders, and other file providers; unsaved work is protected with Keep Local, Reload, and Compare choices
+- Session restore, Save As, diffs, structured CSV/TSV and plist views, plus Apple crash-report and log inspection
+- API keys stay in Keychain; AI and remote workflows are opt-in; no telemetry, subscriptions, or paywalls
 
 
 
@@ -92,6 +105,7 @@ No subscription maze.
 - macOS
 - iPadOS
 - iOS
+- visionOS
 
 Designed to provide a consistent editing experience across Apple platforms with native UI and behavior.
 
