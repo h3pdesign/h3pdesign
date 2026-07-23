@@ -100,7 +100,15 @@ Designed to provide a consistent editing experience across Apple platforms with 
 ## Screenshots
 
 <p align="center">
-  <img src="NVE 3.png" width="90%" />
+  <img src="neon-vision-editor-light.png" alt="Neon Vision Editor in the light theme" width="70%" />
+</p>
+
+<p align="center">
+  <img src="neon-vision-editor-theme-settings.png" alt="Neon Vision Editor with syntax highlighting, minimap, and project sidebar" width="90%" />
+</p>
+
+<p align="center">
+  <img src="neon-vision-editor-markdown-preview.png" alt="Neon Vision Editor with Markdown preview and project sidebar" width="90%" />
 </p>
 
 # Links
