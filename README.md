@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://h3p.me">Visit h3p.me</a> ·
-  <a href="https://apps-h3p.com">Apps & documentation</a> ·
-  <a href="https://github.com/h3pdesign">GitHub</a>
+  <a href="https://h3p.me">Main site</a> ·
+  <a href="https://apps-h3p.com">Apps & documentation</a>
 </p>
 
 ## A focused software practice
@@ -22,8 +21,8 @@ My main site, [h3p.me](https://h3p.me), brings together the work, writing, photo
 - <a href="https://h3pdesign.github.io/Neon-Vision-Editor/"><img src="neon-icon.png" alt="Neon Vision Editor icon" width="36"></a> [Neon Vision Editor](https://h3pdesign.github.io/Neon-Vision-Editor/) — native code and Markdown editor for macOS, iPadOS, iOS, and visionOS.
 - <a href="https://github.com/h3pdesign/GitBird"><img src="gitbird-icon.png" alt="GitBird icon" width="36"></a> [GitBird](https://github.com/h3pdesign/GitBird) — a focused macOS menu-bar companion for GitHub and GitLab notifications.
 - <a href="https://h3pdesign.github.io/Lingua-Latina-Public/"><img src="lingua-latina-icon.png" alt="Lingua Latina icon" width="36"></a> [Lingua Latina](https://h3pdesign.github.io/Lingua-Latina-Public/) — a quiet companion for Latin vocabulary, translation, and grammar.
-- [Metrics Data](https://h3pdesign.github.io/Metrics-Data-Public/) — public product information and support materials.
-- [Data Reliability Index](https://github.com/h3pdesign/data-reliability-index) — Python tools for attaching trust metadata to data.
+- <a href="https://h3pdesign.github.io/Metrics-Data-Public/"><img src="metrics-data-icon.png" alt="Metrics Data icon" width="36"></a> [Metrics Data](https://h3pdesign.github.io/Metrics-Data-Public/) — public product information and support materials.
+- <a href="https://github.com/h3pdesign/data-reliability-index"><img src="data-reliability-index-icon.png" alt="Data Reliability Index icon" width="36"></a> [Data Reliability Index](https://github.com/h3pdesign/data-reliability-index) — Python tools for attaching trust metadata to data.
 
 ## Visit the GitHub Pages sites
 
