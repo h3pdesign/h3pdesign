@@ -37,6 +37,23 @@ My creative portfolio, [h3p.me](https://h3p.me), brings together the work, writi
 | [Metrics Data](https://h3pdesign.github.io/Metrics-Data-Public/) | Product information and updates |
 | [Voyages](https://h3pdesign.github.io/voyages/) | Travel writing, photographs, and maps |
 
+## Current focus
+
+- Editor architecture, large-file performance, and cross-device workflows
+- Native Apple development with SwiftUI, AppKit, and UIKit
+- Python tooling, data visualization, and monitoring systems
+- CI/CD, automated release workflows, and reliable distribution
+
+## Native-first principles
+
+Software should feel sharp, calm, and reliable. I favor native performance, fast startup, readable interfaces, and focused products over feature overload.
+
+For Neon Vision Editor, that means no Electron, no telemetry, and no subscription maze; AI assistance is optional and responds only when requested.
+
+## Toolset
+
+Swift · SwiftUI · AppKit · UIKit · Python · SQLite · GitHub Actions · Azure
+
 ## Working principles
 
 Native by default. Human by design.
